@@ -1,0 +1,1 @@
+The names of the videos (after removing suffixes like .mp4 and .avi) correspond one-to-one with the folder names under the 'footBall' directory. Those folders contain the annotation information for each image frame of the videos with the same names.
