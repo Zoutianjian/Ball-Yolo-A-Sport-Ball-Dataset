@@ -25,4 +25,11 @@ Our tabletennis videos are partly sourced from www.bilibili.com and WTT Champion
   year={2019}
 }
 
+@article{gossard2025blurball,
+  title={Blurball: Joint ball and motion blur estimation for table tennis ball tracking},
+  author={Gossard, Thomas and Radovic, Filip and Ziegler, Andreas and Zell, Andrea},
+  journal={arXiv preprint arXiv:2509.18387},
+  year={2025}
+}
+
 ```
