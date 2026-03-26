@@ -1,0 +1,1 @@
+We Choose the "001" Video in all of 25 folders from Blurball, and then concatenate them to 7 Videos. The .csv file are also concatenated from the initial Note Files.
